@@ -1,0 +1,14 @@
+h1 {
+    background: blue;
+    color: white;
+    text-align: center;
+    padding: 12px;
+}
+
+#demo-area-04-area {
+    margin-top: 10px;
+    width: 90%;
+    height: 150px;
+    background: #ccc;
+    pointer-events: auto !important;
+}
